@@ -3,7 +3,6 @@ import { Star, ThumbsUp, ThumbsDown, X } from "lucide-react";
 import logo from "./logo.svg";
 import hero from "./kingston-et00434967-1741240067.avif";
 import { CgSearch } from "react-icons/cg";
-import { LuAlignJustify } from "react-icons/lu";
 import { SlArrowDown } from "react-icons/sl";
 
 import actor1 from "./g-v-prakash-kumar-3973-15-02-2022-01-57-26.avif";
