@@ -413,20 +413,17 @@ function App() {
             },
             {
               id: 2,
-              title: "Movie Title 2",
-              genre: "Comedy, Romance",
+              title: "Rakthrekha",
               imageUrl: movie2,
             },
             {
               id: 3,
-              title: "Movie Title 3",
-              genre: "Thriller, Mystery",
+              title: "Captain America: Brave New World",
               imageUrl: movie3,
             },
             {
               id: 4,
-              title: "Movie Title 4",
-              genre: "Sci-Fi, Adventure",
+              title: "Deva",
               imageUrl: movie4,
             },
           ].map((movie) => (
